@@ -1,6 +1,6 @@
 # SAP S/4HANA Sales Report Dashboard
 
-A reconstructed portfolio implementation aligned with the submitted SAP S/4HANA ABAP internship project, **Sales Report Dashboard**.
+A reconstructed portfolio implementation aligned with the submitted SAP S/4HANA ABAP  project, **Sales Report Dashboard**.
 
 > **Important:** The original SAP practice-system source code was not available. The ABAP files in this repository are a clean, portfolio-ready reconstruction based on the project report and available screenshots. They should not be represented as the original exported SAP source code.
 
@@ -93,6 +93,6 @@ sap-s4hana-sales-report-dashboard/
 
 The submitted project report documents the architecture, methodology, `ZSALES_DATA` design, ALV selection screen, dashboard output, drill-down view and customer transaction report. Screenshots can be placed in the `screenshots/` folder after removing any confidential system/user information.
 
-## Interview Summary
+## Summary
 
 > “I worked on an SAP S/4HANA ABAP sales reporting project. I used VBAK, VBAP and KNA1 as source tables, designed a custom ZSALES_DATA table for reporting, processed the data with ABAP and displayed the results using an interactive ALV report with filtering, aggregation and drill-down.”
