@@ -2,38 +2,41 @@
 
 ```text
 +-----------------------------+
-| SAP GUI / ALV Selection     |
-| Date | Customer | VKORG     |
+| Standard SAP Tables         |
+| VBAK | VBAP | KNA1          |
+| Sales & Customer Data       |
 +-------------+---------------+
               |
               v
 +-----------------------------+
 | ABAP Data Extraction        |
 | ZSALES_DATA_LOAD            |
-+-------------+---------------+
-              |
-              v
-+-----------------------------+
-| Standard SAP Tables         |
-| VBAK | VBAP | KNA1          |
+| Select / Join / Map Data    |
 +-------------+---------------+
               |
               v
 +-----------------------------+
 | Custom Reporting Table      |
 | ZSALES_DATA                 |
+| Structured Sales Data       |
 +-------------+---------------+
               |
               v
 +-----------------------------+
 | ABAP Processing             |
-| totals / customer analysis  |
+| Totals / Aggregation        |
+| Customer-wise Analysis      |
++-------------+---------------+
+              |
+              v
++-----------------------------+
+| ALV Selection Screen        |
+| Date | Customer | VKORG     |
 +-------------+---------------+
               |
               v
 +-----------------------------+
 | Interactive ALV Report      |
-| sort / filter / export      |
-| drill-down                  |
+| Sort | Filter | Export      |
+| Drill-down                  |
 +-----------------------------+
-```
