@@ -95,7 +95,7 @@ The combination of `VBELN` and `POSNR` identifies an individual sales-document i
 
 Detailed table documentation is available in:
 
-[`documentation/ZSALES_DATA_SPEC.md`](documentation/ZSALES_DATA_SPEC.md)
+[`documentation/ZSALES_DATA_SPEC.md`]( SAP_SRD/documentation/ZSALES_DATA_TABLE_SPEC.mdd)
 
 ---
 
